@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liwu-di
-- 👀 I’m interested in python and java and C++
+- 👀 I’m interested in python and java and C++ and everything joyful
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on PaperCrawlerUtil project
 - 📫 How to reach me a154125960@gmail.com
